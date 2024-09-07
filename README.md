@@ -1,4 +1,4 @@
-<a id="readme-top"></a>
+![image](https://github.com/user-attachments/assets/b8c40d4a-4420-447c-9c37-a0751eff67c3)<a id="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -28,10 +28,10 @@ This repository will provide my data analytic projects that I created in single 
 
 1. Draft notebook
 
-   You can see the notebook named with "_Draft" in the end of project name. This notebook contain detailed data analytic process including, importing data, structuring & cleaning data, data transformation, EDA (Exploratory Data Analysis), creating chart draft & dataframe selection, and creating dashboard.
+   You can see the notebook named with `_Draft" in the end of project name. This notebook contain detailed data analytic process including, importing data, structuring & cleaning data, data transformation, EDA (Exploratory Data Analysis), creating chart draft & dataframe selection, and creating dashboard.
 3. Dashboard notebook
    
-   This notebook only contain the final dashboard created and can be run through npm inside google colab. Also you can see the notebook named with "_Dashboard" in the end of project name
+   This notebook only contain the final dashboard created and can be run through npm inside google colab. Also you can see the notebook named with `_Dashboard` in the end of project name
 
 These projects developed using URL based data import, so no need to worry about the dataset import.
 
@@ -64,16 +64,16 @@ You can access the datasets using methods below:
   https://github.com/azzindani/01_Data_Analytic/blob/main/Adidas_US_Draft.ipynb
   ```
 * Go to nbviewer (https://nbviewer.org/).
-  <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
-  </div>
   
 * Paste the URL of your notebook in the search bar and click "Go"
   <div align="center">
     <img src="/assets/005.png" alt="Logo" width="1000">
   </div>
   
-This will render your notebook in a readable format.
+* This will render your notebook in a readable fo
+  <div align="center">
+    <img src="/assets/005.png" alt="Logo" width="1000">
+  </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,13 +89,18 @@ This will render your notebook in a readable format.
     <img src="/assets/005.png" alt="Logo" width="1000">
   </div>
 
+* Google colab will automatically opened
+  <div align="center">
+    <img src="/assets/005.png" alt="Logo" width="1000">
+  </div>
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## How to Test and Run the Draft Notebook
 
 To run this notebook you can follow the steps below:
 
-* Click on the project file in this repository
+* Click on any project file in this repository
   <div align="center">
     <img src="/assets/005.png" alt="Logo" width="1000">
   </div>
@@ -126,7 +131,7 @@ You can directly preview the detailed process of data analytic, also you can edi
 
 ## How to Preview the Final Dashboard
 
-* Click on the project file in this repository
+* Click on the project file with `_Dashboard` name in this repository
   <div align="center">
     <img src="/assets/005.png" alt="Logo" width="1000">
   </div>
@@ -165,13 +170,32 @@ You can directly preview the detailed process of data analytic, also you can edi
   <div align="center">
     <img src="/assets/005.png" alt="Logo" width="1000">
   </div>
-  
+
+* If you got error, you can simply restart the cell by clicking this button twice
+  <div align="center">
+    <img src="/assets/005.png" alt="Logo" width="1000">
+  </div>
 * Paste the copied ip address inside "Tunnel Password" cell, then click "Click to Submit"
   <div align="center">
     <img src="/assets/005.png" alt="Logo" width="1000">
   </div>
 
 This will automatically generate and deploy an temporer interactive dashboard based on web application. You can test and select the sidebar to control the dashboard and it run the calculation based on selected options. Also you can adjust the setting by clicking the triple dot on the right corner and choose "settings".
+
+* This is the preview
+  <div align="center">
+    <img src="/assets/005.png" alt="Logo" width="1000">
+  </div>
+  
+* Control the dashboard with the sidebar
+  <div align="center">
+    <img src="/assets/005.png" alt="Logo" width="1000">
+  </div>
+  
+* Click setting if you want to customize or do as you need
+  <div align="center">
+    <img src="/assets/005.png" alt="Logo" width="1000">
+  </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
