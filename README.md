@@ -28,7 +28,7 @@ This repository will provide my data analytic projects that I created in single 
 
 1. Draft notebook
 
-   You can see the notebook named with `_Draft" in the end of project name. This notebook contain detailed data analytic process including, importing data, structuring & cleaning data, data transformation, EDA (Exploratory Data Analysis), creating chart draft & dataframe selection, and creating dashboard.
+   You can see the notebook named with `_Draft` in the end of project name. This notebook contain detailed data analytic process including, importing data, structuring & cleaning data, data transformation, EDA (Exploratory Data Analysis), creating chart draft & dataframe selection, and creating dashboard.
 3. Dashboard notebook
    
    This notebook only contain the final dashboard created and can be run through npm inside google colab. Also you can see the notebook named with `_Dashboard` in the end of project name
