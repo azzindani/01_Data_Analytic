@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b8c40d4a-4420-447c-9c37-a0751eff67c3)<a id="readme-top"></a>
+<a id="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -47,12 +47,12 @@ You can access the datasets using methods below:
 
 * Click on the project file in this repository.
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/001.png" alt="Logo" width="1000">
   </div>
   
 * GitHub will automatically render the notebook, allowing you to view the cells, outputs, and markdown as it appears in a Jupyter Notebook environment.
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/002.png" alt="Logo" width="1000">
   </div>
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -67,12 +67,12 @@ You can access the datasets using methods below:
   
 * Paste the URL of your notebook in the search bar and click "Go"
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/003.png" alt="Logo" width="1000">
   </div>
   
 * This will render your notebook in a readable fo
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/004.png" alt="Logo" width="1000">
   </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,9 +80,6 @@ You can access the datasets using methods below:
 ### Preview the Notebook via Google Colab
 
 * Follow the "Preview the notebook via github" steps
-  <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
-  </div>
   
 * Click on "Open in Colab"
   <div align="center">
@@ -91,7 +88,7 @@ You can access the datasets using methods below:
 
 * Google colab will automatically opened
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/006.png" alt="Logo" width="1000">
   </div>
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -102,7 +99,7 @@ To run this notebook you can follow the steps below:
 
 * Click on any project file in this repository
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/001.png" alt="Logo" width="1000">
   </div>
   
 * Click on "Open in Colab"
@@ -112,17 +109,17 @@ To run this notebook you can follow the steps below:
   
 * Click "Connect" or "Connect to a new runtime" at the google colab
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/007.png" alt="Logo" width="1000">
   </div>
   
 * Select "Runtime" at the top bar and click "Run all"
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/008.png" alt="Logo" width="1000">
   </div>
   
 * Click "run anyway" if notification poped up
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/009.png" alt="Logo" width="1000">
   </div>
 
 You can directly preview the detailed process of data analytic, also you can edit anything you need inside the notebook and test it.
@@ -133,68 +130,64 @@ You can directly preview the detailed process of data analytic, also you can edi
 
 * Click on the project file with `_Dashboard` name in this repository
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/010.png" alt="Logo" width="1000">
   </div>
   
 * Click on "Open in Colab"
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/011.png" alt="Logo" width="1000">
   </div>
   
 * Click "Connect" or "Connect to a new runtime" at the google colab
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/012.png" alt="Logo" width="1000">
   </div>
   
 * Select "Runtime" at the top bar and click "Run all"
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/013.png" alt="Logo" width="1000">
   </div>
   
 * Click "run anyway" if notification poped up
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/014.png" alt="Logo" width="1000">
   </div>
   
 * Scroll down until you reach the bottom of notebook
-  <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
-  </div>
-  
 * Copy the ip address
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/015.png" alt="Logo" width="1000">
   </div>
   
 * Click the generated npx link, and the new tab will be poped up
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/016.png" alt="Logo" width="1000">
   </div>
 
 * If you got error, you can simply restart the cell by clicking this button twice
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/017.png" alt="Logo" width="1000">
   </div>
 * Paste the copied ip address inside "Tunnel Password" cell, then click "Click to Submit"
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/018.png" alt="Logo" width="1000">
   </div>
 
 This will automatically generate and deploy an temporer interactive dashboard based on web application. You can test and select the sidebar to control the dashboard and it run the calculation based on selected options. Also you can adjust the setting by clicking the triple dot on the right corner and choose "settings".
 
 * This is the preview
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/019.png" alt="Logo" width="1000">
   </div>
   
 * Control the dashboard with the sidebar
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/020.png" alt="Logo" width="1000">
   </div>
   
 * Click setting if you want to customize or do as you need
   <div align="center">
-    <img src="/assets/005.png" alt="Logo" width="1000">
+    <img src="/assets/021.png" alt="Logo" width="1000">
   </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
