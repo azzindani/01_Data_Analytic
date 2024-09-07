@@ -190,6 +190,16 @@ This will automatically generate and deploy an temporer interactive dashboard ba
     <img src="/assets/021.png" alt="Logo" width="1000">
   </div>
 
+* I used plotly library to create the charts, so you can interact with each chart. You can open the chart to fullscreen, zoom in & zoom out, pan the chart position, take screenshot, etc
+  <div align="center">
+    <img src="/assets/022.png" alt="Logo" width="1000">
+  </div>
+  
+* Also you can disable or enable for each colored category, by interacting with the marked area
+  <div align="center">
+    <img src="/assets/023.png" alt="Logo" width="1000">
+  </div>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Preview All via Mobile Phone
